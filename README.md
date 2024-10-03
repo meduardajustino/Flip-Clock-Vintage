@@ -1,6 +1,6 @@
 # Flip Clock Rosa e Vintage ⏰
 
-![Flip Clock Preview](link-da-imagem)
+![Flip Clock Preview](flipclock)
 
 Este projeto é um **flip clock** estilo vintage com uma estética **rosa**, inspirado nos relógios de abas mecânicas clássicos. Ele exibe a hora em um formato visualmente agradável, com um toque retrô e uma vibe nostálgica, perfeito para quem aprecia designs clássicos e minimalistas.
 
