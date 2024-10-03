@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(178, 143, 159);
+}
+
+.digital-clock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    body {
+        font-family: 'Helvetica Neue Condensed Bold', Arial, sans-serif;
+    }  
+
+.flip-container {
+    display: flex;
+    gap: 20px;
+}
+
+.flip-unit {
+    position: relative;
+    perspective: 1000px;
+}
+
+.flip-unit .number {
+    width: 300px;
+    height: 450px; 
+    background-color: #e6c9d6;
+    color: rgb(158, 128, 141); 
+    font-size: 250px; 
+    text-align: center;
+    line-height: 450px;
+    border-radius: 10px;
+    border: 5px solid #e6c9d6;
+
+}
